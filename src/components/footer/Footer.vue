@@ -2,11 +2,11 @@
   <footer class="footer">
     <div class="footer_left">
       <FooterLink :link-content="'github.png'" link-url="https://github.com/alinagizhdevan" link-type="img"
-                  link-label="alinagizhdevan" new-tab/>
+                  link-label="tsurkanyuliia" new-tab/>
     </div>
 
     <div class="footer_right">
-      <FooterLink :link-content="'\u00A9 Alina Gizhdevan'"/>
+      <FooterLink :link-content="'\u00A9 Tsurkan Yuliia'"/>
     </div>
   </footer>
 </template>
