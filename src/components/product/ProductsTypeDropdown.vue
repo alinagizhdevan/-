@@ -7,6 +7,7 @@
           <option disabled class="product_type product_type_disabled" value="">Choose operation type:</option>
           <option class="product_type product_type_active" value="tenRarestWords">10 rarest words</option>
           <option class="product_type product_type_active" value="tenMostCommonWords">10 most common words</option>
+          <option disabled class="product_type product_type_disabled" value="type3">Type6</option>
         </select>
 
       </div>
