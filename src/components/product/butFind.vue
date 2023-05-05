@@ -78,7 +78,7 @@ export default {
           alert('Input something!!!')
         }
       } else {
-        alert('Choose product type!!!');
+        alert('Choose operation type!!!');
       }
     }
   }
