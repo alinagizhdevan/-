@@ -4,7 +4,7 @@
       <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
 
         <select v-model="productType" class="product_types" @change="sendProductType">
-          <option disabled class="product_type product_type_disabled" value="">Choose product type:</option>
+          <option disabled class="product_type product_type_disabled" value="">Choose operation type:</option>
           <option class="product_type product_type_active" value="tenRarestWords">10 rarest words</option>
           <option class="product_type product_type_active" value="tenMostCommonWords">10 most common words</option>
           <option disabled class="product_type product_type_disabled" value="type3">Type3</option>
